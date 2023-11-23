@@ -1,0 +1,14 @@
+{
+  "name": "5eaa4fe14863087e",
+  "main": "5eaa4fe14863087e@49.js",
+  "version": "49.0.0",
+  "homepage": "https://observablehq.com/d/5eaa4fe14863087e",
+  "author": {
+    "name": "林敬翰's Workspace",
+    "url": "https://observablehq.com/@lin-jing-han-ws"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
